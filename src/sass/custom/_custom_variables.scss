@@ -1,0 +1,33 @@
+//colors
+
+$black:    #000000 !default;
+$blue:    #01C7F1 !default;
+$gray-900: #526C79 !default;
+$pink:   #F94F7A !default;
+$yellow:  #FBF9F0 !default;
+$gray-800: #555555 !default;
+$rad-900:  #be1e2d;
+$rad-hover: #9f0917;
+$black-200: #222222;
+$black-drop: #0f0909;
+$add-color:  #2c2929;
+$disabled-color: #BE1E2D;
+$disabled-hover: #85151F;
+$faq-color:    #370000;
+
+
+// Fonts
+$font-family-base:      'Roboto', sans-serif;
+$font-family-heading:   'Metamorphous';
+//$font-family-heading:   'algerianregular';
+$font-family-01:   'Roboto Slab', serif;
+$font-family-02:   'Roboto Condensed', sans-serif;
+$font-aller-01:   'allerregular', sans-serif;
+$font-aller-02:   'allerlight', sans-serif;
+$font-aller-03:   'allerbold', sans-serif;
+
+
+// stylelint-enable value-keyword-case
+$font-size-base:              0.9375rem  !default; // Assumes the browser default, typically `16px`
+
+

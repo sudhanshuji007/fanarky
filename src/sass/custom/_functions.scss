@@ -1,0 +1,7 @@
+@function image_url($path){
+  @return '../../../public/images' + $path
+}
+
+@function font-path($path){
+  @return '../fonts'+ $path
+}
